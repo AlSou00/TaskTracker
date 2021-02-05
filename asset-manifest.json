@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/TaskTracker/static/css/main.ac030362.chunk.css",
-    "main.js": "/TaskTracker/static/js/main.2588bca7.chunk.js",
-    "main.js.map": "/TaskTracker/static/js/main.2588bca7.chunk.js.map",
-    "runtime-main.js": "/TaskTracker/static/js/runtime-main.b71ae134.js",
-    "runtime-main.js.map": "/TaskTracker/static/js/runtime-main.b71ae134.js.map",
-    "static/js/2.165989cd.chunk.js": "/TaskTracker/static/js/2.165989cd.chunk.js",
-    "static/js/2.165989cd.chunk.js.map": "/TaskTracker/static/js/2.165989cd.chunk.js.map",
-    "static/js/3.6c8c7db8.chunk.js": "/TaskTracker/static/js/3.6c8c7db8.chunk.js",
-    "static/js/3.6c8c7db8.chunk.js.map": "/TaskTracker/static/js/3.6c8c7db8.chunk.js.map",
+    "main.js": "/TaskTracker/static/js/main.67220774.chunk.js",
+    "main.js.map": "/TaskTracker/static/js/main.67220774.chunk.js.map",
+    "runtime-main.js": "/TaskTracker/static/js/runtime-main.c380a605.js",
+    "runtime-main.js.map": "/TaskTracker/static/js/runtime-main.c380a605.js.map",
+    "static/js/2.163e0be4.chunk.js": "/TaskTracker/static/js/2.163e0be4.chunk.js",
+    "static/js/2.163e0be4.chunk.js.map": "/TaskTracker/static/js/2.163e0be4.chunk.js.map",
+    "static/js/3.c2490101.chunk.js": "/TaskTracker/static/js/3.c2490101.chunk.js",
+    "static/js/3.c2490101.chunk.js.map": "/TaskTracker/static/js/3.c2490101.chunk.js.map",
     "index.html": "/TaskTracker/index.html",
     "static/css/main.ac030362.chunk.css.map": "/TaskTracker/static/css/main.ac030362.chunk.css.map",
-    "static/js/2.165989cd.chunk.js.LICENSE.txt": "/TaskTracker/static/js/2.165989cd.chunk.js.LICENSE.txt"
+    "static/js/2.163e0be4.chunk.js.LICENSE.txt": "/TaskTracker/static/js/2.163e0be4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b71ae134.js",
-    "static/js/2.165989cd.chunk.js",
+    "static/js/runtime-main.c380a605.js",
+    "static/js/2.163e0be4.chunk.js",
     "static/css/main.ac030362.chunk.css",
-    "static/js/main.2588bca7.chunk.js"
+    "static/js/main.67220774.chunk.js"
   ]
 }
