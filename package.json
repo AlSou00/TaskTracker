@@ -19,14 +19,14 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage":"https://AlSou00.github.io/TaskTracker",
+  "homepage": "https://AlSou00.github.io/TaskTracker",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port 5000",
-    "depoly":"gh-pages -d build"
+    "deploy": "gh-pages -d build "
   },
   "eslintConfig": {
     "extends": [
